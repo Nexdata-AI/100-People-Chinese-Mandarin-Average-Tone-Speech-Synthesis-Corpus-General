@@ -4,7 +4,7 @@
 ## Description
 100 People - Chinese Mandarin Average Tone Speech Synthesis Corpus, General. It is recorded by Chinese native speaker. It covers news, dialogue, audio books, poetry, advertising, news broadcasting, entertainment; and the phonemes and tones are balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
 
-For more details, please refer to the link: https://bit.ly/3xRQaqE
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1139?source=Github
 
 ## Format
 48,000Hz, 16bit, uncompressed wav, mono channel;
