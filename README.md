@@ -31,4 +31,4 @@ word and phoneme transcription, prosodic boundary annotation, phoneme boundary a
 speech synthesis.
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
